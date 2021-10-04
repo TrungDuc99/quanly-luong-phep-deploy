@@ -1,0 +1,2 @@
+(this["webpackJsonpjumbo-material"]=this["webpackJsonpjumbo-material"]||[]).push([[10],{782:function(t,n,e){"use strict";e.r(n),e.d(n,"default",(function(){return u}));var a=e(0),r=e.n(a);function u(){return r.a.createElement(r.a.Fragment,null)}}}]);
+//# sourceMappingURL=10.a791e9ab.chunk.js.map

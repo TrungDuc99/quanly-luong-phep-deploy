@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/BaoCao/index.js"],"names":["index","Fragment"],"mappings":"yHAAA,mEAEe,SAASA,IACtB,OAAO,kBAAC,IAAMC,SAAP","file":"static/js/10.a791e9ab.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nexport default function index(){\r\n  return <React.Fragment />;\r\n}\r\n"],"sourceRoot":""}
